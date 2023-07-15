@@ -9,6 +9,14 @@ The **recommended** course to start learning Android! Build a series of apps u
 - A computer that can run Android Studio (see [system requirements](https://developer.android.com/studio))
 - (Optional) Android device
 
+
+### Download
+
+| Software | Description | URL | 
+|-----------|--------------|--------|
+| Android Studio IDE | Development Environment for Android Apps | [Download](https://developer.android.com/studio) | 
+| Scrcpy  | Android Mirror | [Install via Winget](https://github.com/SanjeevStephan/android-mirror/blob/master/doc/windows.md) | 
+
 ### Course goals
 - Understand the fundamentals of Kotlin and Jetpack Compose
 - Build a series of basic Android apps
@@ -102,3 +110,4 @@ Learn how to use Compose and the older UI toolkit based on Views side-by-side in
 # Resources
 1.  [Training  |  Get started  |  Android Developers](https://developer.android.com/courses)
 2. [Android Basics with Compose course  |  Android Developers](https://developer.android.com/courses/android-basics-compose/course)
+3. [How can a skill-based course help you get a better job than just a graduate degree (msn.com)](https://www.msn.com/en-in/money/careers/how-can-a-skill-based-course-help-you-get-a-better-job-than-just-a-graduate-degree/ar-AA19OjNO?ocid=msedgntp&cvid=b6a6d991e2c8442ab72e53d8edd804b4&ei=11)
