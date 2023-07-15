@@ -25,11 +25,11 @@ The **recommended** course to start learning Android! Build a series of apps u
 
 ### Course Status
 
-| Unit | Task | Status | Completion Date |
-|------|-----|---------|-------|
-| 1 | Create Your 1st Android App | Pending |  - | 
-| 2 | Building app UI | Pending |  - | 
-| 3 | Display lists and use Material Design | Pending | - |
+| Unit | Task | Status | Completion Date | Output |
+|------|-----|---------|-------|-------------|
+| 1 | Create Your 1st Android App | Pending |  - |  - | 
+| 2 | Building app UI | Pending |  - |  - | 
+| 3 | Display lists and use Material Design | Pending | - | - | 
 
 
 
