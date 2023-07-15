@@ -22,14 +22,25 @@ The **recommended** course to start learning Android! Build a series of apps u
 - Build a series of basic Android apps
 - Use Android app architecture, Jetpack libraries and work with data according to Modern Android Development practices
 
+
+### Course Status
+
+| Unit | Task | Status | Completion Date |
+|------|-----|---------|-------|
+| 1 | Create Your 1st Android App | Pending |  - | 
+| 2 | Building app UI | Pending |  - | 
+| 3 | Display lists and use Material Design | Pending | - |
+
+
+
 ## Get Started ( [Start Course](https://developer.android.com/courses/android-basics-compose/course) )
 
 ### Unit 1: Your first Android app
 
 Learn programming basics and create your first Android app.
 
-- Write simple Kotlin programs that display text output.
 - Download and install Android Studio.
+- Write simple Kotlin programs that display text output.
 - Build an Android app with a simple user interface that displays text and images.
 - Run the app on a device or emulator.
 
